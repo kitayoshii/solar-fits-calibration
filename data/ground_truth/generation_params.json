@@ -1,0 +1,27 @@
+{
+  "size": [
+    1024,
+    1024
+  ],
+  "sigma_g": 0.02,
+  "lowfreq_amp": 0.04,
+  "lowfreq_scale": 8,
+  "radial_amp": 0.1,
+  "dark_level": 15.0,
+  "dark_sigma": 2.0,
+  "fractions": {
+    "dead": 0.0005,
+    "hot": 0.0005,
+    "stuck": 0.0002,
+    "noisy": 0.0003
+  },
+  "dynamic_range": 504.765625,
+  "seed": 42,
+  "defect_counts": {
+    "dead": 524,
+    "hot": 524,
+    "stuck": 210,
+    "noisy": 315,
+    "total_bad": 1573
+  }
+}
